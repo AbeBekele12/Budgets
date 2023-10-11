@@ -1,7 +1,5 @@
-# budgets
+# Budgets
 
-
-This Flutter app helps you track your expenses. You can add expenses, set a budget, and see your remaining budget. The app uses SharedPreferences to save your data, so your data will not be lost even if you close the app.
 
 Getting started
 
