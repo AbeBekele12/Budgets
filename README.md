@@ -1,4 +1,4 @@
-Budgets
+# Budget Management App
 This repository contains the source code for a budget management app. The app is designed to help users manage their expenses and keep track of their finances. It is built using Dart and Flutter, and is compatible with both Android and iOS devices.
 
 Features
@@ -24,5 +24,3 @@ Push your changes to your fork.
 Submit a pull request.
 License
 This project is licensed under Abenezer License. See the LICENSE file for details.
-
-I hope this helps! Let me know if you have any other questions.
